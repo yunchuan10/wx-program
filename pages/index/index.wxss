@@ -1,0 +1,22 @@
+/* pages/index/index.wxss */
+page{height: 100%;background: #8ed145;}
+.contain{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100%;
+}
+.avatar{width: 200rpx;height: 200rpx;margin: 100rpx 0;border-radius: 100rpx;}
+
+.userName{font-size: 32rpx;font-weight: bold;margin: 100rpx 0;}
+
+.getStudy{
+  width: 200rpx;
+	height: 60rpx;
+	border: 1px solid #405f80;
+	border-radius: 5px;
+	font-size: 24rpx;
+	line-height: 60rpx;
+	text-align: center;
+}
+

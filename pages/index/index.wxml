@@ -1,0 +1,9 @@
+<!--pages/index/index.wxml-->
+<view class='contain'>
+  <image class='avatar' src='/images/index/cart.jpg'></image>
+  <text class='userName'>hello program</text>
+  <view class='getStudy'>
+    <text>开启{{msg}}</text>
+  </view>
+</view>
+
